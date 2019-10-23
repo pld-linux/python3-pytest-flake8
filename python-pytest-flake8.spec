@@ -7,13 +7,13 @@
 Summary:	py.test plugin to check FLAKE8 requirements
 Summary(pl.UTF-8):	Wtyczka py.test do sprawdzania wymagań FLAKE8
 Name:		python-pytest-flake8
-Version:	1.0.1
+Version:	1.0.4
 Release:	1
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-flake8/
 Source0:	https://files.pythonhosted.org/packages/source/p/pytest-flake8/pytest-flake8-%{version}.tar.gz
-# Source0-md5:	4fd0c2878e8ce8fbdd5fd6c20cb3cefb
+# Source0-md5:	a6fcb6ceb01a2bc06c005f6cc7f70fe5
 URL:		https://github.com/tholo/pytest-flake8
 %if %{with python2}
 BuildRequires:	python-modules >= 1:2.7
