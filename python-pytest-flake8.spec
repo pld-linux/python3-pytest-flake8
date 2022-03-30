@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	Wtyczka py.test do sprawdzania wymagań FLAKE8
 Name:		python-pytest-flake8
 # keep 1.0.x here for python2 support
 Version:	1.0.7
-Release:	3
+Release:	4
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-flake8/
